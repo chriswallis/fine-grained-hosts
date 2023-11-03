@@ -1,0 +1,5 @@
+216.239.38.120 www.youtube.com
+216.239.38.120 m.youtube.com
+216.239.38.120 youtubei.googleapis.com
+216.239.38.120 youtube.googleapis.com
+216.239.38.120 www.youtube-nocookie.com
